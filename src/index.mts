@@ -1,12 +1,12 @@
 import { initProject, configureProject } from './manager.js'
-import { modifyESLintCfg, modifyPrittierCfg, modifyTSCfg, addScripts } from './redactor.js'
+import { modifyESLintCfg, configurePrettier, modifyTSCfg, addScripts } from './redactor.js'
 
 function main(): void {
   initProject()
   configureProject()
   modifyTSCfg()
   modifyESLintCfg()
-  modifyPrittierCfg()
+  configurePrettier()
   addScripts()
 }
 
