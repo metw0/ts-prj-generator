@@ -46,8 +46,7 @@ export function configureProject(): void {
 
     fs.mkdirSync('dist', { recursive: true })
 
-    console.log('creating eslint.config.js and .prettierrc...')
-    fs.writeFileSync('eslint.config.js', '{}')
+    console.log('creating .prettierrc...')
     fs.writeFileSync('.prettierrc', '{}')
 
     console.log('project configured successfully')
