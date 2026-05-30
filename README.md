@@ -5,10 +5,6 @@ a simple project generator for TypeScript. it helps you quickly create projects 
 **zero-config**: it just works out of the box   
 **portable**: only one binary to generating  
 ## how to use ?
-### from binary
-step 0. download el latest release from [releases page](https://github.com/metw0/ts-prj-generator/releases)   
-step 1. move binary to your project directory  
-step 2. run it  
 ### from source  
 step 0. clone el repo: ```git clone https://github.com/metw0/ts-prj-generator.git```   
 step 0.1: if you don't have bun, install it: ```curl -fsSL https://bun.sh/install | bash```  
