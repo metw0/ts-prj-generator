@@ -14,7 +14,7 @@ a simple project generator for TypeScript. it helps you quickly create projects 
 **step 0**. clone el repo: ```git clone https://github.com/metw0/ts-prj-generator.git```     
 **step 0.1**. if you don't have bun, install it: ```curl -fsSL https://bun.sh/install | bash```    
 **step 1**. get into: ```cd ts-prj-generator```     
-**step 2**. compile project to binary: ```bun build ./src/index.mts --compile --outfile ts-prj-generator-linux-custom```     
+**step 2**. compile project to binary: ```bun build ./src/index.mts --compile --outfile ts-prj-generator-custom```     
 **step 3**. move that binary to your project folder         
 **step 4**. make it executable: ```chmod +x ts-prj-generator-custom```         
 **step 4**. run it: ```./ts-prj-generator-custom```     
