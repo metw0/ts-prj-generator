@@ -23,5 +23,6 @@ I tested it only on Linux (and 50/50 on macos), so, idk how it runs on windows. 
 this tool will get updates randomly, so, if you really love it, you can be a contributor and all people who use it will love you (even if you a newbie, I'am gonna be really happy if this project would have a contributor/s)  
 
 *¡gracias por vuestra atención !*    
+
 ![Downloads](https://img.shields.io/github/downloads/metw0/ts-prj-generator/total)
 
