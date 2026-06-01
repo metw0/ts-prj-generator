@@ -6,9 +6,9 @@ a simple project generator for TypeScript. it helps you quickly create projects 
 **portable**: only one binary to generating  
 ## how to use ?
 ### from binary
-**step 0**: download binary for your system (linux/macos)
-**step 1**: move the binary into your project folder
-**step 2**: run it  
+**step 0**: download binary for your system (linux/macos)    
+**step 1**: move the binary into your project folder    
+**step 2**: run it       
 ### from source  
 **step 0**: clone el repo: ```git clone https://github.com/metw0/ts-prj-generator.git```   
 **step 0.1**: if you don't have bun, install it: ```curl -fsSL https://bun.sh/install | bash```  
