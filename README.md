@@ -22,6 +22,7 @@ a simple project generator for TypeScript. it helps you quickly create projects 
 I tested it only on Linux (and 50/50 on macos), so, idk how it runs on windows. If you really cool and have windows, you can test it and send me feedback, in 99% I'am gonna answer you & add your edits  
 this tool will get updates randomly, so, if you really love it, you can be a contributor and all people who use it will love you (even if you a newbie, I'am gonna be really happy if this project would have a contributor/s)  
 
+![Downloads](https://img.shields.io/github/downloads/metw0/ts-prj-generator/total)
 
 *¡gracias por vuestra atención !*    
 
